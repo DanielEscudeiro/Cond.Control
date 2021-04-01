@@ -1,0 +1,326 @@
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\MySql.Data.dll
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Google.Protobuf.dll
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\BouncyCastle.Crypto.dll
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csprojAssemblyReference.cache
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Alterar_Senha.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Encerrar_Visitas.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Liberar_Visitas.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.login.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Pagina_Inicial.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Relatorio_de_Visitas.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.GenerateResource.cache
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.CoreCompileInputs.cache
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.CopyComplete
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Cond. Control.exe.config
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Cond. Control.exe
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Cond. Control.pdb
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Properties.Resources.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.exe
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.pdb
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmacao_de_Dados.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmacao_de_Acesso_Saida.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmação_de_Acesso_Entrada.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Esqueci_Senha.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Cadastro_de_Trabalhador.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Acesso_de_Trabalhador.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Cond. Control.exe.config
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Cond. Control.exe
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Cond. Control.pdb
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\MySql.Data.dll
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Google.Protobuf.dll
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Zstandard.Net.dll
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\BouncyCastle.Crypto.dll
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Ubiety.Dns.Core.dll
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Renci.SshNet.dll
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\System.Buffers.dll
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.dll
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\K4os.Hash.xxHash.dll
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\System.Memory.dll
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\MySql.Data.xml
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csprojAssemblyReference.cache
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.exe.config
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Acesso_de_Trabalhador.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Alterar_Senha.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Cadastro_de_Trabalhador.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmacao_de_Acesso_Saida.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmacao_de_Dados.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmação_de_Acesso_Entrada.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Encerrar_Visitas.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Esqueci_Senha.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Liberar_Visitas.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.login.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Pagina_Inicial.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Properties.Resources.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Relatorio_de_Visitas.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.GenerateResource.cache
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.CoreCompileInputs.cache
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.CopyComplete
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.exe
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.pdb
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\Cond. Control.exe.config
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\Cond. Control.exe
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\Cond. Control.pdb
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\Google.Protobuf.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\Zstandard.Net.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\Renci.SshNet.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\System.Buffers.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\System.Memory.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\bin\Debug\MySql.Data.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond. Control.csprojAssemblyReference.cache
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond. Control.exe.config
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond._Control.Acesso_de_Trabalhador.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Alterar_Senha.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond._Control.Cadastro_de_Trabalhador.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmacao_de_Acesso_Saida.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmacao_de_Dados.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmação_de_Acesso_Entrada.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Encerrar_Visitas.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond._Control.Esqueci_Senha.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Liberar_Visitas.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.login.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Pagina_Inicial.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond._Control.Properties.Resources.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Relatorio_de_Visitas.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.GenerateResource.cache
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.CoreCompileInputs.cache
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.CopyComplete
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond. Control.exe
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond. Control.pdb
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroFuncionarioInterno.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroVisitante.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroMorador.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\Alysson_Paulino-condominio-48f7560b4feb\Projeto 2º Semestre\obj\Debug\Cond._Control.TesteDTGV.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroFuncionarioInterno.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroMorador.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroVisitante.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\System.Numerics.Vectors.dll
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Acesso_Funcionario.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Ponto.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Moradores.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Funcionarios.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Usuarios.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroUsuario.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\Cond. Control.exe.config
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\Cond. Control.exe
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\Cond. Control.pdb
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\Google.Protobuf.dll
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\Zstandard.Net.dll
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\Renci.SshNet.dll
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\System.Buffers.dll
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\System.Memory.dll
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\MySql.Data.xml
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.exe.config
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Acesso_Funcionario.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Acesso_de_Trabalhador.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Alterar_Senha.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Cadastro_de_Trabalhador.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroFuncionarioInterno.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroMorador.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroUsuario.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroVisitante.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmacao_de_Acesso_Saida.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmacao_de_Dados.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmação_de_Acesso_Entrada.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Encerrar_Visitas.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Esqueci_Senha.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Liberar_Visitas.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.login.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Pagina_Inicial.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Properties.Resources.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Moradores.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Funcionarios.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Ponto.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Tabalhador.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Usuarios.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Relatorio_de_Visitas.resources
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.GenerateResource.cache
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.CopyComplete
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.exe
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.pdb
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\rober\Desktop\Login\Projeto 2º Semestre\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\Cond. Control.exe.config
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\Cond. Control.exe
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\Cond. Control.pdb
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\Google.Protobuf.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\Zstandard.Net.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\Renci.SshNet.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Memory.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Buffers.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\netstandard.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\MySql.Data.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\Google.Protobuf.pdb
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\Google.Protobuf.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\Renci.SshNet.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Memory.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Buffers.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csprojAssemblyReference.cache
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.exe.config
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Acesso_Funcionario.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Acesso_de_Trabalhador.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Alterar_Senha.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Cadastro_de_Trabalhador.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroFuncionarioInterno.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroMorador.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroUsuario.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroVisitante.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmacao_de_Acesso_Saida.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmacao_de_Dados.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmação_de_Acesso_Entrada.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Encerrar_Visitas.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Esqueci_Senha.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Liberar_Visitas.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.login.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Pagina_Inicial.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Properties.Resources.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Moradores.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Funcionarios.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Ponto.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Usuarios.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Relatorio_de_Visitas.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.GenerateResource.cache
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.CoreCompileInputs.cache
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.CopyComplete
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.exe
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.pdb
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\02.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Trabalhador.resources
+E:\Análise de Sistemas\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Trabalhador.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\Cond. Control.exe.config
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\Cond. Control.exe
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\Cond. Control.pdb
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\Google.Protobuf.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\Zstandard.Net.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\Renci.SshNet.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Memory.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Buffers.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\netstandard.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\MySql.Data.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\Google.Protobuf.pdb
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\Google.Protobuf.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\Renci.SshNet.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Memory.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Buffers.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csprojAssemblyReference.cache
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.exe.config
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Acesso_Funcionario.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Acesso_de_Trabalhador.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Cadastro_de_Trabalhador.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroFuncionarioInterno.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroMorador.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroUsuario.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroVisitante.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmacao_de_Acesso_Saida.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Alterar_Senha.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Esqueci_Senha.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.login.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Pagina_Inicial.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmacao_de_Dados.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmação_de_Acesso_Entrada.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Encerrar_Visitas.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Liberar_Visitas.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Properties.Resources.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Moradores.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Funcionarios.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Ponto.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Trabalhador.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Usuarios.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Relatorio_de_Visitas.resources
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.GenerateResource.cache
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.CoreCompileInputs.cache
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.CopyComplete
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.exe
+C:\Users\Danca\Desktop\Visual Studio projeto condominio\05.12.2020\Login\Projeto 2º Semestre\obj\Debug\Cond. Control.pdb
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\Cond. Control.exe.config
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\Cond. Control.exe
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\Cond. Control.pdb
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\MySql.Data.dll
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\Google.Protobuf.dll
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\Zstandard.Net.dll
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\Renci.SshNet.dll
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\System.Buffers.dll
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\System.Memory.dll
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\bin\Debug\MySql.Data.xml
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond. Control.csprojAssemblyReference.cache
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond. Control.exe.config
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.Acesso_Funcionario.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.Acesso_de_Trabalhador.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.Cadastro_de_Trabalhador.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroFuncionarioInterno.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroMorador.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroUsuario.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.CadastroVisitante.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmacao_de_Acesso_Saida.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Alterar_Senha.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.Esqueci_Senha.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.login.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Pagina_Inicial.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmacao_de_Dados.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.Confirmação_de_Acesso_Entrada.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Encerrar_Visitas.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Liberar_Visitas.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.Properties.Resources.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Moradores.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Funcionarios.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Ponto.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Trabalhador.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond._Control.Relatorio_de_Usuarios.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Relatorio_de_Visitas.resources
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.GenerateResource.cache
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.CoreCompileInputs.cache
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond. Control.csproj.CopyComplete
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond. Control.exe
+C:\Users\Danca\Documents\Projetos Feitos ADS\2º Semestre\Alysson_Paulino-condominio-eda7c7f7a8e5\Projeto 2º Semestre\obj\Debug\Cond. Control.pdb

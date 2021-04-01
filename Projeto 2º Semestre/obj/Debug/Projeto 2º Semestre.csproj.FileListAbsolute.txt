@@ -1,0 +1,19 @@
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Projeto 2º Semestre.exe.config
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Projeto 2º Semestre.exe
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Projeto 2º Semestre.pdb
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto 2º Semestre.csprojAssemblyReference.cache
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Login.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Properties.Resources.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto 2º Semestre.csproj.GenerateResource.cache
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto 2º Semestre.csproj.CoreCompileInputs.cache
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto 2º Semestre.exe
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto 2º Semestre.pdb
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\MySql.Data.dll
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\Google.Protobuf.dll
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\bin\Debug\BouncyCastle.Crypto.dll
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto 2º Semestre.csproj.CopyComplete
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Pagina_Inicial.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Alterar_Senha.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Liberar_Visitas.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Encerrar_Visitas.resources
+E:\Projeto 2º Semestre\Login\Projeto 2º Semestre\obj\Debug\Projeto_2º_Semestre.Relatorio_de_Visitas.resources

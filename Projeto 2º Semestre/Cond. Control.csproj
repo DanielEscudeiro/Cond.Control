@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{70E1241C-531F-4665-A583-42C36D3030D6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Cond._Control</RootNamespace>
+    <AssemblyName>Cond. Control</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=8.0.21.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Teste Projeto Condominio\CSRV\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acesso\Acesso Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acesso\Acesso Funcionario.designer.cs">
+      <DependentUpon>Acesso Funcionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acesso\Acesso_de_Trabalhador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acesso\Acesso_de_Trabalhador.Designer.cs">
+      <DependentUpon>Acesso_de_Trabalhador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastros\Cadastro de Trabalhador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastros\Cadastro de Trabalhador.Designer.cs">
+      <DependentUpon>Cadastro de Trabalhador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastros\CadastroFuncionarioInterno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastros\CadastroFuncionarioInterno.Designer.cs">
+      <DependentUpon>CadastroFuncionarioInterno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastros\CadastroMorador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastros\CadastroMorador.Designer.cs">
+      <DependentUpon>CadastroMorador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastros\CadastroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastros\CadastroUsuario.designer.cs">
+      <DependentUpon>CadastroUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastros\CadastroVisitante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastros\CadastroVisitante.Designer.cs">
+      <DependentUpon>CadastroVisitante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Buscas.cs" />
+    <Compile Include="Classes\conexao.cs" />
+    <Compile Include="Classes\FuncionarioInterno.cs" />
+    <Compile Include="Classes\Relatorio.cs" />
+    <Compile Include="Classes\Trabalhador.cs" />
+    <Compile Include="Cadastros\Confirmacao de Acesso Saida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastros\Confirmacao de Acesso Saida.Designer.cs">
+      <DependentUpon>Confirmacao de Acesso Saida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <DependentUpon>DataSet1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.cs">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.Designer.cs">
+      <DependentUpon>DataSet2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet3.cs">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet3.Designer.cs">
+      <DependentUpon>DataSet3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet4.cs">
+      <DependentUpon>DataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet4.Designer.cs">
+      <DependentUpon>DataSet4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet5.cs">
+      <DependentUpon>DataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet5.Designer.cs">
+      <DependentUpon>DataSet5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet6.cs">
+      <DependentUpon>DataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet6.Designer.cs">
+      <DependentUpon>DataSet6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio\Alterar Senha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio\Alterar Senha.Designer.cs">
+      <DependentUpon>Alterar Senha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio\Esqueci Senha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio\Esqueci Senha.Designer.cs">
+      <DependentUpon>Esqueci Senha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio\Pagina Inicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio\Pagina Inicial.Designer.cs">
+      <DependentUpon>Pagina Inicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Itens Não Usados\Confirmacao de Dados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Itens Não Usados\Confirmacao de Dados.Designer.cs">
+      <DependentUpon>Confirmacao de Dados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Itens Não Usados\Confirmação de Acesso Entrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Itens Não Usados\Confirmação de Acesso Entrada.Designer.cs">
+      <DependentUpon>Confirmação de Acesso Entrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Itens Não Usados\Encerrar_Visitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Itens Não Usados\Encerrar_Visitas.Designer.cs">
+      <DependentUpon>Encerrar_Visitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Informacoes.cs" />
+    <Compile Include="Itens Não Usados\Liberar_Visitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Itens Não Usados\Liberar_Visitas.Designer.cs">
+      <DependentUpon>Liberar_Visitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Relatorios\Relatorio de Moradores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\Relatorio de Moradores.Designer.cs">
+      <DependentUpon>Relatorio de Moradores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\Relatorio_de_Funcionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\Relatorio_de_Funcionarios.Designer.cs">
+      <DependentUpon>Relatorio_de_Funcionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\Relatorio_de_Ponto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\Relatorio_de_Ponto.Designer.cs">
+      <DependentUpon>Relatorio_de_Ponto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\Relatorio_de_Trabalhador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\Relatorio_de_Trabalhador.Designer.cs">
+      <DependentUpon>Relatorio_de_Trabalhador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\Relatorio_de_Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\Relatorio_de_Usuarios.Designer.cs">
+      <DependentUpon>Relatorio_de_Usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\Relatorio_de_Visitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\Relatorio_de_Visitas.Designer.cs">
+      <DependentUpon>Relatorio_de_Visitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Visitantes.cs" />
+    <EmbeddedResource Include="Acesso\Acesso Funcionario.resx">
+      <DependentUpon>Acesso Funcionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acesso\Acesso_de_Trabalhador.resx">
+      <DependentUpon>Acesso_de_Trabalhador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastros\Cadastro de Trabalhador.resx">
+      <DependentUpon>Cadastro de Trabalhador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastros\CadastroFuncionarioInterno.resx">
+      <DependentUpon>CadastroFuncionarioInterno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastros\CadastroMorador.resx">
+      <DependentUpon>CadastroMorador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastros\CadastroUsuario.resx">
+      <DependentUpon>CadastroUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastros\CadastroVisitante.resx">
+      <DependentUpon>CadastroVisitante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastros\Confirmacao de Acesso Saida.resx">
+      <DependentUpon>Confirmacao de Acesso Saida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio\Alterar Senha.resx">
+      <DependentUpon>Alterar Senha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio\Esqueci Senha.resx">
+      <DependentUpon>Esqueci Senha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio\Pagina Inicial.resx">
+      <DependentUpon>Pagina Inicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Itens Não Usados\Confirmacao de Dados.resx">
+      <DependentUpon>Confirmacao de Dados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Itens Não Usados\Confirmação de Acesso Entrada.resx">
+      <DependentUpon>Confirmação de Acesso Entrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Itens Não Usados\Encerrar_Visitas.resx">
+      <DependentUpon>Encerrar_Visitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Itens Não Usados\Liberar_Visitas.resx">
+      <DependentUpon>Liberar_Visitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Relatorios\Relatorio de Moradores.resx">
+      <DependentUpon>Relatorio de Moradores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Relatorio_de_Funcionarios.resx">
+      <DependentUpon>Relatorio_de_Funcionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Relatorio_de_Ponto.resx">
+      <DependentUpon>Relatorio_de_Ponto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Relatorio_de_Trabalhador.resx">
+      <DependentUpon>Relatorio_de_Trabalhador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Relatorio_de_Usuarios.resx">
+      <DependentUpon>Relatorio_de_Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Relatorio_de_Visitas.resx">
+      <DependentUpon>Relatorio_de_Visitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet3.xsc">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet3.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Include="DataSet3.xss">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet4.xsc">
+      <DependentUpon>DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet4.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Include="DataSet4.xss">
+      <DependentUpon>DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet5.xsc">
+      <DependentUpon>DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet5.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Include="DataSet5.xss">
+      <DependentUpon>DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet6.xsc">
+      <DependentUpon>DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet6.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Include="DataSet6.xss">
+      <DependentUpon>DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
